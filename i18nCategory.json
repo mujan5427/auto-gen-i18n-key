@@ -1,0 +1,16 @@
+{
+  "data": [
+    "title",
+    "caption",
+    "label",
+    "default",
+    "unit",
+    "status",
+    "relation",
+    "placeholder",
+    "description",
+    "notice",
+    "action",
+    "error"
+  ]
+}

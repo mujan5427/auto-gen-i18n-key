@@ -1,0 +1,25 @@
+{
+  "data": [
+    "title",
+    "選擇物業",
+    "選擇出租空間",
+    "選擇電表狀態",
+    "選擇電表",
+    "caption",
+    "label",
+    "總表",
+    "分表",
+    "參考表",
+    "公共電表",
+    "尚無任何資料",
+    "default",
+    "unit",
+    "status",
+    "relation",
+    "placeholder",
+    "description",
+    "notice",
+    "action",
+    "error"
+  ]
+}
